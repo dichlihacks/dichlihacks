@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dichlihacks
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning everything to pass the OSCP
+- 🌱 I’m currently working on obtaining my OSCP
 
 
 <!---
